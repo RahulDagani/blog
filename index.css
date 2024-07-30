@@ -1,0 +1,27 @@
+.bg_container{
+    text-align: center;
+    background-color: #bceeee;
+    border-width: 10px;
+    border-style: double;
+    padding: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: url("");
+    background-size: cover;
+
+}
+.main_heading{
+    color: tomato;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+.main_video{
+    border-radius: 15px;
+}
+
+.sub_bg_container{
+    background-color: white;
+    border-radius: 10px;
+    padding: 10px;
+    margin-top: 30px;
+    
+}
